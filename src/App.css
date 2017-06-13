@@ -1,0 +1,10 @@
+.App {
+		margin: 0 50px;
+		padding: 20px;
+		position: relative;
+}
+
+.App-button {
+		width: 150px;
+		position: relative;
+}
